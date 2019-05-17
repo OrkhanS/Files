@@ -10,16 +10,6 @@ session_start();
 		<?php
 	}
 
-	if($_SESSION['login_true'] == 'yes')
-	{
-			?>
-		<script>
-			window.location.href = "http://localhost/index.php";
-		</script>
-		<?php
-	}
-
-
 	$username = $_POST['username'];
 	$pass = $_POST['password'];
 
