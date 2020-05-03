@@ -4,4 +4,4 @@
 index.php is the main file where PayPal integration happens. The project is not complete.
 
 ## License
-https://github.com/DAVFoundation/captain-n3m0/blob/master/LICENSE
+[![license](https://img.shields.io/github/license/DAVFoundation/captain-n3m0.svg?style=flat-square)](https://github.com/DAVFoundation/captain-n3m0/blob/master/LICENSE)
